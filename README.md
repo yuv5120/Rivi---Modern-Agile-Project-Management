@@ -1,6 +1,6 @@
-# Rivi - JIRA Clone
+# Rivi - Modern Agile Project Management
 
-Rivi is a full-featured, modern JIRA clone built with a premium deep-blue design aesthetic. It provides comprehensive project management tools including interactive Kanban boards, sprint management, issue tracking, and detailed reporting.
+Rivi is a powerful, modern agile project management platform built with a premium deep-blue design aesthetic. It empowers teams to organize work efficiently with comprehensive tools including interactive Kanban boards, sprint lifecycle management, deep issue tracking, and insightful reporting.
 
 ## 🚀 Features
 
